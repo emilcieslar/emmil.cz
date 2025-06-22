@@ -32,3 +32,5 @@ credentials.js
 
 # clanky
 clanky/
+.next
+package-lock.json
